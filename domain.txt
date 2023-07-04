@@ -1,0 +1,1 @@
+daikinbox,daikin_server,switchbot_cloud,switchbot_webhook,switchbot_cloud_auto,homex_ui,homex_system,taiseia_serial,taiseia
