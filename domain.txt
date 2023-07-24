@@ -1,1 +1,1 @@
-daikinbox,daikin_server,switchbot_cloud,switchbot_webhook,switchbot_cloud_auto,homex_ui,homex_system,taiseia_serial,taiseia,fibaro_home_center,homebox,ip2ir,virtual_cover,virtual_switch,virtual_sensor,ir2device,binding_device,motion_cover,ferqo_cc
+daikinbox,daikin_server,switchbot_cloud,switchbot_webhook,switchbot_cloud_auto,homex_ui,homex_system,taiseia_serial,taiseia,fibaro_home_center,homebox,ip2ir,virtual_cover,virtual_switch,virtual_sensor,ir2device,binding_device,motion_cover,ferqo_cc,mjpeg_camera
